@@ -11,8 +11,20 @@
     "build": "rm -rf lib && rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backgroundColor/cutimg.git"
+  },
+  "keywords": [
+    "img compress",
+    "img detail info"
+  ],
   "author": "backgroundColor",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backgroundColor/cutimg/issues"
+  },
+  "homepage": "https://github.com/backgroundColor/cutimg#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/plugin-external-helpers": "^7.2.0",

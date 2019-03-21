@@ -144,9 +144,9 @@
         var resImg = document.getElementById('resImg');
         var scaleImg = document.getElementById('scaleImg');
         var compressFn = new CutImg({
-          targetId: 'upload_img',
-          scale: 0.5,
-          imgDom: resImg
+          targetId: 'upload_img', // 必须
+          scale: 0.5,  // 非必须 默认为1
+          imgDom: resImg // 使用detailInfo 为必填
         });
         compressFn.compress(function (data) {
           console.log(data)
