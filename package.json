@@ -1,5 +1,5 @@
 {
-  "name": "cutimg",
+  "name": "bg-cutimg",
   "version": "1.0.0",
   "description": "compress img",
   "main": "cutimg.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/backgroundColor/cutimg.git"
+    "url": "git+https://github.com/backgroundColor/bg-cutimg.git"
   },
   "keywords": [
     "img compress",
@@ -22,9 +22,9 @@
   "author": "backgroundColor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/backgroundColor/cutimg/issues"
+    "url": "https://github.com/backgroundColor/bg-cutimg/issues"
   },
-  "homepage": "https://github.com/backgroundColor/cutimg#readme",
+  "homepage": "https://github.com/backgroundColor/bg-cutimg#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/plugin-external-helpers": "^7.2.0",
