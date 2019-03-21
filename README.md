@@ -5,7 +5,7 @@
 
 ```
  // 安装
- npm i cutimg
+ npm i bg-cutimg
 
 ```
 
